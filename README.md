@@ -270,26 +270,13 @@ Edit the contact details in `contact.html`:
 ## 📸 Screenshots
 
 <p align="center">
-  <b>🖥️ Desktop View</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📱 Mobile View</b>
+  <img src="https://github.com/user-attachments/assets/0e08a283-fcdf-45a1-bce1-a4f3729a7749" width="550" alt="Desktop View" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e08a283-fcdf-45a1-bce1-a4f3729a7749" width="48%" style="border-radius: 10px;" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/6a61cda1-aeaa-49ac-b4ef-4843caa34a59" width="25%" style="border-radius: 10px;" />
+  <sub>Desktop</sub>
 </p>
 
-<br/>
-
-<p align="center">
-  <b>🖼️ Gallery View</b>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a8343623-f394-4134-a7ac-70ee997c0941" width="70%" style="border-radius: 10px;" />
-</p>
 
 ---
 
